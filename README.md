@@ -2,7 +2,7 @@
 
 Senior Technical Product Manager working in streaming and sports tech — currently at the NBA/WNBA, with prior product work at Tubi and Paramount/Nickelodeon.
 
-I build things outside of work too. Below are a few side projects and Claude skills I've shipped, mostly nights-and-weekends, mostly with an AI coding tool as a pair.
+I build things outside of work too. Below are a few side projects and Claude skills I've shipped, usually nights and weekends, with an AI coding tool as a pair.
 
 **Portfolio & case studies:** [productmattager.com](https://productmattager.com)
 **LinkedIn:** [in/englermatthew](https://linkedin.com/in/englermatthew)

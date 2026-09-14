@@ -10,7 +10,7 @@ I build things outside of work too. Below are a few side projects and Claude ski
 ## A few things I've built
 
 - 🎮 **[AERO 16](https://github.com/Englerm/aero-16)** — a daily logic puzzle game, built with my son
-- 🕰️ **[Vesper Standard Time](https://github.com/Englerm/vesper-standard-time)** — a concept clock designed around human rhythms instead of the rigid 60-second tick
+- 🕰️ **[Vesper Standard Time](https://github.com/Englerm/vesper-standard-time)** — a concept alternative to Daylight Savings Time that adjusts the clock a few seconds each night instead of one hour jumps twice a year
 - 📅 **[Liam Planner](https://github.com/Englerm/liam-planner)** — an after-school planning app I built for my other son
 - 🧭 **[AI Product Builder Framework](https://github.com/Englerm/ai-product-builder-framework)** — a 9-step methodology for taking a product idea from raw problem to working prototype
 - 🔎 **[Hiring Manager Finder](https://github.com/Englerm/hiring-manager-finder)** — a Claude skill that finds the real people worth contacting for a job, not just a title
